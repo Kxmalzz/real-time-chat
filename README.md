@@ -52,7 +52,7 @@ A simple group chatting application using MERN stack.
 <img width="1900" height="892" alt="Screenshot 2025-07-19 143218" src="https://github.com/user-attachments/assets/9ee24f41-1d0c-4157-aca1-25ee25ca0feb" />
 
 # Author
-- Kamali p
+- Kamali P
 
 
 
