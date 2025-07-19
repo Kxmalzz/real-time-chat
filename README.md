@@ -3,7 +3,7 @@ A simple group chatting application using MERN stack.
 
 # Table of content
 - [Features](#features)
-- [Tech Stack](#TechStack)
+- [Tech Stack](#tech-stack)
 
 # Features
 - 🔐 User Registration & Login (with JWT Authentication)
@@ -12,7 +12,7 @@ A simple group chatting application using MERN stack.
 - ✅ Clean UI Inspired by WhatsApp
 - 🧾 MongoDB for Storing Chats & Users.
 
-# 🛠 Tech Stack
+# Tech Stack
 - Frontend: React.js
 - Backend: Node.js, Express.js
 - Database: MongoDB
@@ -34,7 +34,7 @@ A simple group chatting application using MERN stack.
 - npm start
 - make sure MongoDB compass is running locally
 
-# 📸Screenshots
+# Screenshots
 # Signup
 <img width="1541" height="713" alt="image" src="https://github.com/user-attachments/assets/1fef2a0b-6de6-44f6-8ebd-679fb560d3f7" />
 
