@@ -7,7 +7,7 @@ A simple group chatting application using MERN stack.
 - [Clone the repository](#clone-the-repository)
 - [Setup backend](#setup-backend)
 - [Setup frontend](#setup-frontend)
-- [screenshots](#screenshots)
+- [Screenshots](#screenshots)
 - [Author](#author)
 
 # Features
