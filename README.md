@@ -14,7 +14,6 @@ A simple group chatting application using MERN stack.
 - 🔐 User Registration & Login (with JWT Authentication)
 - 💬 Real-time Messaging with Socket.io
 - 🔍 User Search Functionality
-- ✅ Clean UI Inspired by WhatsApp
 - 🧾 MongoDB for Storing Chats & Users.
 
 # Tech Stack
