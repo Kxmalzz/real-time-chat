@@ -3,6 +3,7 @@ A simple group chatting application using MERN stack.
 
 # Table of content
 - [Features](#features)
+- [Tech Stack](#TechStack)
 
 # Features
 - 🔐 User Registration & Login (with JWT Authentication)
