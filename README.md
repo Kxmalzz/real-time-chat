@@ -4,6 +4,8 @@ A simple group chatting application using MERN stack.
 # Table of content
 - [Features](#features)
 - [Tech Stack](#tech-stack)
+- [Clone the repository](#clone-the-repository)
+- [Setup backend](#setup-backend)
 
 # Features
 - 🔐 User Registration & Login (with JWT Authentication)
