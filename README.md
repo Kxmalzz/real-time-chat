@@ -6,6 +6,9 @@ A simple group chatting application using MERN stack.
 - [Tech Stack](#tech-stack)
 - [Clone the repository](#clone-the-repository)
 - [Setup backend](#setup-backend)
+- [Setup frontend](#setup-frontend)
+- [screenshots](#screenshots)
+- [Author](#author)
 
 # Features
 - 🔐 User Registration & Login (with JWT Authentication)
@@ -25,12 +28,12 @@ A simple group chatting application using MERN stack.
 - git clone https://github.com/your-username/real-time-chat.git
 - cd real-time-chat
 
-# Setup backend(server)
+# Setup backend
 - cd server
 - install npm
 - node server.js
 
-# Setup frontend(client)
+# Setup frontend
 - cd client
 - npm install
 - npm start
